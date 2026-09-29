@@ -9,7 +9,7 @@ This project measures how digital marketing activity translates into financial p
 
 The goal is to connect the full marketing and resident journey:
 
-**Marketing Spend → Leads → Tours → Move-Ins → Revenue → Length of Stay → CLTV → NOI**
+Marketing Spend → Leads → Tours → Move-Ins → Revenue → Length of Stay → CLTV → NOI
 
 Rather than evaluating marketing only through metrics like leads and CPL, the project connects marketing performance to resident value, occupancy, revenue, and NOI using actual CRM, financial, occupancy, and rent roll data.
 
